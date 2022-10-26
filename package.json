@@ -1,0 +1,10 @@
+{
+  "name": "merkle-chunks",
+  "version": "1.0.0",
+  "description": "chunks for ecn airdrop",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "stevewu1234",
+  "license": "MIT"
+}
