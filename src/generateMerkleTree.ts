@@ -6,7 +6,10 @@ import fs from "fs";
 import path from "path";
 
 const generateMerkleTree = () => {
-  const originalFile = path.join(__dirname, "./originalData/kent.json");
+  const originalFile = path.join(
+    __dirname,
+    "./originalData/mergeWatchParty.json"
+  );
 
   const generatePath = path.join(__dirname, "../chunks");
 
